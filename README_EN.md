@@ -6,20 +6,15 @@ English | [中文](./README.md)
 
 </div>
 <br>
-This story dates back to before the launch of Xiaomi HyperOS.
+This story dates back to before the launch of Xiaomi HyperOS.<br><br>
+Back then I was using the Xiaomi MIX4 running one of the final MIUI versions. I was really fond of its **timed light/dark wallpaper switching** feature.<br><br>
+At first, I thought it was a sophisticated system-level tech that reconstructed the pixels of a single image to create bright scenery for daytime and dim scenery for nighttime.<br><br>
+Later, when I tried to extract the built-in wallpapers with tools, I found out how it actually works: MIUI simply swaps between two photos taken at different brightness levels (with identical subjects) at the scheduled time.<br><br>
+After Xiaomi HyperOS officially rolled out, this favorite wallpaper feature disappeared completely. I searched far and wide online but never found a proper alternative.<br><br>
+Thanks to the rapid advancement of AI programming, I, with no professional computer background, finally decided to build this tool from scratch on my own.<br><br>
 
-Back then I was using the Xiaomi MIX4 running one of the final MIUI versions. I was really fond of its **timed light/dark wallpaper switching** feature.
-
-At first, I thought it was a sophisticated system-level tech that reconstructed the pixels of a single image to create bright scenery for daytime and dim scenery for nighttime.
-
-Later, when I tried to extract the built-in wallpapers with tools, I found out how it actually works: MIUI simply swaps between two photos taken at different brightness levels (with identical subjects) at the scheduled time.
-
-After Xiaomi HyperOS officially rolled out, this favorite wallpaper feature disappeared completely. I searched far and wide online but never found a proper alternative.
-
-Thanks to the rapid advancement of AI programming, I, with no professional computer background, finally decided to build this tool from scratch on my own.
-
-That’s how this little utility came into being:
-CWP - Clock Wall Paper (Android phone xiaomi 14 ONLY) | Timed Wallpaper (Xiaomi 14 Android Phone Only).
+That’s how this little utility came into being:<br><br>
+CWP - Clock Wall Paper (Xiaomi 14 Android Phone Only).<br><br>
 
 ---
 <div align="center">
