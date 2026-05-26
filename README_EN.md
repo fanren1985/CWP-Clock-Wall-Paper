@@ -22,7 +22,12 @@ That’s how this little utility came into being:
 CWP - Clock Wall Paper (Android phone xiaomi 14 ONLY) | Timed Wallpaper (Xiaomi 14 Android Phone Only).
 
 ---
+<div align="center">
+    
+Download APK [from HERE](https://github.com/fanren1985/CWP/releases)
 
+</div>
+<br><br>
 ### Important Tips (Key information first)
 1. **Tested Device**: Xiaomi 14 (Android)
 Sorry, this is the only device I own. Feel free to download and test it on other models at your own discretion; I will not run extra tests for other devices.
