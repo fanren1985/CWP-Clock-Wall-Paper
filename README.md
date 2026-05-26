@@ -1,4 +1,4 @@
-<img width="2410" height="2410" alt="egg_foreground" src="https://github.com/user-attachments/assets/93fc3866-2c46-4e60-8ad8-c6109c17d04b" style="display:block; margin:0 auto; width:50%;"/><br><br>
+<img width="2410" height="2410" alt="egg_foreground" src="https://github.com/user-attachments/assets/93fc3866-2c46-4e60-8ad8-c6109c17d04b" style="display:block; margin:0 auto; zoom:50%;"/><br><br>
 
 故事，还得从小米HyperOS上线前说起。
 
