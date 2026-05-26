@@ -1,5 +1,11 @@
-<p align="center"> <img width="2410" height="2410" alt="egg_foreground" src="https://github.com/user-attachments/assets/93fc3866-2c46-4e60-8ad8-c6109c17d04b" style="width:50%;"/> </p> <br><br>
+<p align="center"> <img width="2410" height="2410" alt="egg_foreground" src="https://github.com/user-attachments/assets/93fc3866-2c46-4e60-8ad8-c6109c17d04b" style="width:50%;"/> </p> <br>
 
+<div align="center">
+
+[English](./README_EN.md) | 中文
+
+</div>
+<br>
 故事，还得从小米HyperOS上线前说起。
 
 那时我在用小米MIX4手机，搭载的应该是MIUI末期的某个版本，非常喜欢它有一个 “明暗壁纸定时切换” 的功能。
