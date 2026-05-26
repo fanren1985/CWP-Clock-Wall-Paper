@@ -11,7 +11,8 @@
 
 借助AI编程的迅猛发展，作为计算机外行的我终于下决心，尝试从头手搓这个功能应用。
 
-所以，就有了眼下这个小工具：CWP - Clock Wall Paper (Android phone xiaomi 14 ONLY) | 定时壁纸（仅安卓手机xiaomi 14）。<br><br>
+所以，就有了眼下这个小工具：<br>
+CWP - Clock Wall Paper (Android phone xiaomi 14 ONLY) | 定时壁纸（仅安卓手机xiaomi 14）。<br><br>
 
 ---
 
