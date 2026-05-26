@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="12dp"
+    android:layout_marginVertical="5dp"
+    app:cardElevation="2dp"
+    app:cardCornerRadius="6dp"
+    app:cardUseCompatPadding="true">
+
+    <!-- 水平布局：缩略图(左) | 文字信息(居中) | 删除按钮(右) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="12dp">
+
+        <!-- 最左侧：竖版 16:9 壁纸缩略图 (原尺寸的65%: 80→52, 142→92) -->
+        <ImageView
+            android:id="@+id/iv_thumbnail"
+            android:layout_width="52dp"
+            android:layout_height="92dp"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/select_image"
+            tools:src="@android:drawable/ic_menu_gallery" />
+
+        <!-- 三行文字信息：左对齐 -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp">
+
+            <!-- 时间 + 日子类型 -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/tv_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:textColor="?attr/colorPrimary"
+                    tools:text="08:30" />
+
+                <TextView
+                    android:id="@+id/tv_day_type"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:textSize="12sp"
+                    android:textColor="@android:color/darker_gray"
+                    android:background="@drawable/chip_day_bg"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="2dp"
+                    tools:text="每天" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_image_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="12sp"
+                android:textColor="@android:color/darker_gray"
+                android:maxLines="1"
+                android:ellipsize="end"
+                tools:text="wallpaper.jpg" />
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/chip_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="11sp"
+                android:clickable="false"
+                android:minHeight="0dp"
+                android:paddingVertical="0dp"
+                tools:text="桌面壁纸" />
+        </LinearLayout>
+
+        <!-- 最右侧：垃圾桶删除按钮 (tint 在代码中设置以支持去饱和) -->
+        <ImageButton
+            android:id="@+id/btn_delete"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_trash"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="@string/delete" />
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
