@@ -23,9 +23,14 @@
 
 二、APP稳定运行所需权限：
 - 在最近任务列表中将APP锁定
+- <img width="1200" height="2670" alt="Screenshot_2026-05-26-17-22-33-534_com miui home" src="https://github.com/user-attachments/assets/30ba00b3-f90b-4100-ae9f-6757bb19611f" />
 - 省电策略 - 无限制
+- ![Uploading Screenshot_2026-05-26-16-23-40-060_com.miui.securitycenter.jpg…]()
 - 自启动 - 开启
+<img width="1200" height="2670" alt="Screenshot_2026-05-26-16-23-45-340_com miui securitycenter" src="https://github.com/user-attachments/assets/f4b02937-0f38-4a06-b714-34338c834896" />
 - 权限管理 - “照片和视频”（始终允许），其他权限可以全部拒绝
+<img width="1200" height="2670" alt="Screenshot_2026-05-26-16-25-18-292_com miui securitycenter" src="https://github.com/user-attachments/assets/42117c8c-29f7-4aa9-8be0-d52260584142" />
+<img width="1200" height="2670" alt="Screenshot_2026-05-26-16-25-20-940_com miui securitycenter" src="https://github.com/user-attachments/assets/68009a7f-d55f-4425-a1a9-393cdd0bc701" />
 - 通知管理 - 不允许
 
 ---
