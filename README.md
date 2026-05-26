@@ -24,9 +24,9 @@ CWP - Clock Wall Paper (Android phone xiaomi 14 ONLY) | 定时壁纸（仅安卓
 
 二、APP稳定运行所需权限：
 - 在最近任务列表中将APP锁定<br>
-<img width="360" height="801" alt="Screenshot_2026-05-26-17-22-33-534_com miui home" src="https://github.com/user-attachments/assets/0111ea76-ede9-4b16-b91f-647c88e0af2f" style="width:50%;"/><br><br>
+<img width="360" height="801" alt="Screenshot_2026-05-26-17-22-33-534_com miui home" src="https://github.com/user-attachments/assets/0111ea76-ede9-4b16-b91f-647c88e0af2f" style="longth:50%; width:50%;"/><br><br>
 - 省电策略 - 无限制<br>
-<img width="360" height="801" alt="Screenshot_2026-05-26-16-23-40-060_com miui securitycenter" src="https://github.com/user-attachments/assets/a043ef7d-c6c0-4436-94bc-3903743f95ec" style="width:50%;"/><br><br>
+<img width="360" height="801" alt="Screenshot_2026-05-26-16-23-40-060_com miui securitycenter" src="https://github.com/user-attachments/assets/a043ef7d-c6c0-4436-94bc-3903743f95ec" zoom:50%;"/><br><br>
 - 自启动 - 开启<br>
 <img width="360" height="801" alt="Screenshot_2026-05-26-16-23-45-340_com miui securitycenter" src="https://github.com/user-attachments/assets/91c2db3b-cf07-41d1-9274-55e87a70a937" style="width:50%;"/><br><br>
 - 权限管理 - “照片和视频”（始终允许），其他权限可以全部拒绝<br>
