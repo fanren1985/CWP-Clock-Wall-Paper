@@ -139,7 +139,7 @@ data class WallpaperTask(
 
 ### 4.4 关键依赖
 
-
+| 依赖 | 用途 |
 |------|------|
 | Material Components | MaterialCardView, MaterialButton, Chip, FAB, MaterialAlertDialogBuilder |
 | AppCompat | AppCompatActivity, 夜间模式, 沉浸式 |
