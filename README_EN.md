@@ -1,5 +1,11 @@
 <p align="center"> <img width="2410" height="2410" alt="egg_foreground" src="https://github.com/user-attachments/assets/93fc3866-2c46-4e60-8ad8-c6109c17d04b" style="width:50%;"/> </p> <br><br>
-[English](./README_EN.md) | 中文<br><br>
+
+<div align="center">
+
+[English](./README_en.md) | 中文
+
+</div>
+
 This story dates back to before the launch of Xiaomi HyperOS.
 
 Back then I was using the Xiaomi MIX4 running one of the final MIUI versions. I was really fond of its **timed light/dark wallpaper switching** feature.
