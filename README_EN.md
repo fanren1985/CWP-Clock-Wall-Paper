@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[English](./README_en.md) | 中文
+English | [中文](./README.md)
 
 </div>
-
+<br>
 This story dates back to before the launch of Xiaomi HyperOS.
 
 Back then I was using the Xiaomi MIX4 running one of the final MIUI versions. I was really fond of its **timed light/dark wallpaper switching** feature.
