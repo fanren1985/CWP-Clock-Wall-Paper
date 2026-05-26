@@ -24,7 +24,7 @@ CWP - Clock Wall Paper (Android phone xiaomi 14 ONLY) | 定时壁纸（仅安卓
 ---
 <div align="center">
     
-APK安装文件[点击此处]([releases](https://github.com/fanren1985/CWP/releases))下载
+APK安装文件[点击此处](https://github.com/fanren1985/CWP/release)下载
 
 </div>
 <br><br>
