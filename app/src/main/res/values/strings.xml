@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">定时壁纸</string>
+    <string name="settings">设置</string>
+    <string name="add_task">添加定时任务</string>
+    <string name="no_tasks">暂无定时任务\n点击右下角按钮添加</string>
+
+    <!-- 日子选择 -->
+    <string name="select_day_type">选择日子</string>
+    <string name="day_once">仅一次</string>
+    <string name="day_everyday">每天</string>
+    <string name="day_workday">法定工作日</string>
+    <string name="day_holiday">法定节假日</string>
+    <string name="day_weekday">周一至周五</string>
+    <string name="day_weekend">周六+周日</string>
+
+    <!-- 时间 -->
+    <string name="select_time">选择时间</string>
+
+    <!-- 壁纸 -->
+    <string name="select_image">选择壁纸图片</string>
+    <string name="wallpaper_type">壁纸类型</string>
+    <string name="wallpaper_system">桌面壁纸</string>
+    <string name="wallpaper_lock">锁屏壁纸</string>
+    <string name="wallpaper_both">桌面+锁屏</string>
+
+    <string name="delete">删除</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+
+    <!-- 夜间模式 -->
+    <string name="dark_mode">夜间模式</string>
+    <string name="dark_mode_on">开启夜间模式</string>
+    <string name="dark_mode_follow_system">跟随系统</string>
+
+    <!-- 主题色 -->
+    <string name="theme_color">主题色</string>
+
+    <string name="hide_from_recents">从最近任务中隐藏</string>
+    <string name="hide_from_recents_desc">开启后，应用运行时不会出现在多任务界面中</string>
+    <string name="change_now">立即更换</string>
+    <string name="task_time_format">%1$02d:%2$02d</string>
+    <string name="wallpaper_channel_name">壁纸更换服务</string>
+    <string name="wallpaper_changing">正在更换壁纸…</string>
+    <string name="task_deleted">任务已删除</string>
+    <string name="alarm_permission_required">需要闹钟权限才能定时更换壁纸，请在设置中授予</string>
+    <string name="notification_permission_required">需要通知权限以维持后台服务</string>
+    <string name="image_selected">已选择图片</string>
+    <string name="no_image_selected">未选择图片</string>
+
+    <!-- 版本和作者 -->
+    <string name="version_author_template">v%1$s | by：Any Wang 林惊羽</string>
+</resources>

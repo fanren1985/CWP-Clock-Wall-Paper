@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Adaptive Icon 安全区域说明：
+    画布总尺寸 108dp × 108dp，安全区域为 72dp × 72dp（中心圆直径 66dp）。
+    foreground 图案必须保持在安全区域内，否则会被各 launcher 裁剪。
+    inset = (108-72)/2 = 18dp = 16.67%
+-->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:inset="16.67%">
+    <bitmap
+        android:src="@drawable/egg_foreground"
+        android:gravity="fill" />
+</inset>
