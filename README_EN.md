@@ -87,8 +87,7 @@ Adjust the hour and minute dials to set the desired time.
 
 #### 2.5 Settings
 
-<img width="360" height="801" alt="Screenshot_2026-05-26-16-16-24-798_com CWP app" src="https://github.com/user-attachments/assets/303bdc3a-5fc8-4915-b9ea-9a9be6de61bd" style="width:30%;"/><br><br>
-
+<img width="360" height="801" alt="e4f3122ce131d66fcedce44f61c5418" src="https://github.com/user-attachments/assets/d7529488-3e26-4f4c-a5b0-ba674badacb7" style="width:30%;"/><br>
 - **Dark Mode**: On / Follow System (mutually exclusive toggle)
 - **Theme Color**: 9 low-saturation colors available (Red, Orange, Yellow, Green, Cyan, Blue, Purple, Black, White), applied globally to toolbars, floating action button (FAB) and status bar.
 - **Hide from Recent Apps**: Remove the app from the system’s recent apps list.
