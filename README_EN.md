@@ -29,6 +29,7 @@ Important Tips (Key information first)
 Sorry, these are the only current devices I own. Feel free to download and test it on other models at your own discretion; I will not run extra tests for other devices.
 <br><br>
 2. **Required Permissions for Stable Operation**<br>
+
 - Battery saver: Set to **No restrictions**
 
 <img width="360" height="801" alt="Screenshot_2026-05-26-16-23-40-060_com miui securitycenter" src="https://github.com/user-attachments/assets/a043ef7d-c6c0-4436-94bc-3903743f95ec" style="width:30%;"/><br><br>
