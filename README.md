@@ -25,19 +25,19 @@ APK安装文件[点击此处](https://github.com/fanren1985/CWP/releases)下载
 <br><br>
 以下是值得提醒的一些Tips，重要信息前置：
 
-一、测试机型：小米14安卓手机<br>
+一、测试机型：安卓手机小米14、小米17<br>
 （抱歉，目前我仅有此机型。其他的机型请大家自行随缘测试，我不会去额外测试）。
 
 二、APP稳定运行所需权限：
-- 在最近任务列表中将APP锁定<br>
-
-<img width="360" height="801" alt="Screenshot_2026-05-26-17-22-33-534_com miui home" src="https://github.com/user-attachments/assets/0111ea76-ede9-4b16-b91f-647c88e0af2f" style="width:30%;"/><br><br>
 - 省电策略 - 无限制<br>
 
 <img width="360" height="801" alt="Screenshot_2026-05-26-16-23-40-060_com miui securitycenter" src="https://github.com/user-attachments/assets/a043ef7d-c6c0-4436-94bc-3903743f95ec" style="width:30%;"/><br><br>
 - 自启动 - 开启<br>
 
 <img width="360" height="801" alt="Screenshot_2026-05-26-16-23-45-340_com miui securitycenter" src="https://github.com/user-attachments/assets/91c2db3b-cf07-41d1-9274-55e87a70a937" style="width:30%;"/><br><br>
+- 在最近任务列表中将APP锁定<br>
+
+<img width="360" height="801" alt="Screenshot_2026-05-26-17-22-33-534_com miui home" src="https://github.com/user-attachments/assets/0111ea76-ede9-4b16-b91f-647c88e0af2f" style="width:30%;"/><br><br>
 - 权限管理 - “照片和视频”（始终允许），其他权限可以全部拒绝<br>
 
 <img width="360" height="801" alt="Screenshot_2026-05-26-16-25-18-292_com miui securitycenter" src="https://github.com/user-attachments/assets/08c60255-e8da-4c03-ae7e-480040728b63" style="width:30%;"/>
