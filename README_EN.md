@@ -11,7 +11,7 @@ Back then I was using the Xiaomi MIX4 running one of the final MIUI versions. I 
 At first, I thought it was a sophisticated system-level tech that reconstructed the pixels of a single image to create bright scenery for daytime and dim scenery for nighttime.<br><br>
 Later, when I tried to extract the built-in wallpapers with tools, I found out how it actually works: MIUI simply swaps between two photos taken at different brightness levels (with identical subjects) at the scheduled time.<br><br>
 After Xiaomi HyperOS officially rolled out, this favorite wallpaper feature disappeared completely. I searched far and wide online but never found a proper alternative.<br><br>
-Thanks to the rapid advancement of AI programming, I, with no professional computer background, finally decided to build this tool from scratch on my own.<br><br>
+Thanks to the rapid advancement of AI programming, I, without professional computer background, finally decided to build this tool from scratch on my own.<br><br>
 
 That’s how this little utility came into being:<br><br>
 CWP - Clock Wall Paper (Android Phone ONLY).<br><br>
