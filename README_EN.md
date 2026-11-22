@@ -25,8 +25,8 @@ Download APK [from HERE](https://github.com/fanren1985/CWP/releases)
 <br><br>
 Important Tips (Key information first)
 <br><br>
-1. **Tested Device**: Xiaomi 14&17 (Android)
-Sorry, this is the only device I own. Feel free to download and test it on other models at your own discretion; I will not run extra tests for other devices.
+1. **Tested Device**: Xiaomi 14&17 (Android)<br>
+Sorry, these are the only current devices I own. Feel free to download and test it on other models at your own discretion; I will not run extra tests for other devices.
 <br><br>
 2. **Required Permissions for Stable Operation**
 - Battery saver: Set to **No restrictions**
