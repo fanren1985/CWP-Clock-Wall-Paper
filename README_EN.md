@@ -14,7 +14,7 @@ After Xiaomi HyperOS officially rolled out, this favorite wallpaper feature disa
 Thanks to the rapid advancement of AI programming, I, with no professional computer background, finally decided to build this tool from scratch on my own.<br><br>
 
 That’s how this little utility came into being:<br><br>
-CWP - Clock Wall Paper (Xiaomi 14 Android Phone Only).<br><br>
+CWP - Clock Wall Paper (Android Phone ONLY).<br><br>
 
 ---
 <div align="center">
@@ -24,14 +24,10 @@ Download APK [from HERE](https://github.com/fanren1985/CWP/releases)
 </div>
 <br><br>
 ### Important Tips (Key information first)
-1. **Tested Device**: Xiaomi 14 (Android)
+1. **Tested Device**: Xiaomi 14&17 (Android)
 Sorry, this is the only device I own. Feel free to download and test it on other models at your own discretion; I will not run extra tests for other devices.
 
 2. **Required Permissions for Stable Operation**
-- Lock the app in the recent apps list
-
-<img width="360" height="801" alt="Screenshot_2026-05-26-17-22-33-534_com miui home" src="https://github.com/user-attachments/assets/0111ea76-ede9-4b16-b91f-647c88e0af2f" style="width:30%;"/><br><br>
-
 - Battery saver: Set to **No restrictions**
 
 <img width="360" height="801" alt="Screenshot_2026-05-26-16-23-40-060_com miui securitycenter" src="https://github.com/user-attachments/assets/a043ef7d-c6c0-4436-94bc-3903743f95ec" style="width:30%;"/><br><br>
@@ -39,6 +35,10 @@ Sorry, this is the only device I own. Feel free to download and test it on other
 - Enable **Auto-start**
 
 <img width="360" height="801" alt="Screenshot_2026-05-26-16-23-45-340_com miui securitycenter" src="https://github.com/user-attachments/assets/91c2db3b-cf07-41d1-9274-55e87a70a937" style="width:30%;"/><br><br>
+
+- Lock the app in the recent apps list
+
+<img width="360" height="801" alt="Screenshot_2026-05-26-17-22-33-534_com miui home" src="https://github.com/user-attachments/assets/0111ea76-ede9-4b16-b91f-647c88e0af2f" style="width:30%;"/><br><br>
 
 - Permission management: Grant **Photos and videos (Always allow)**. All other permissions can be denied.
 
