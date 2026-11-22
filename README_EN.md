@@ -23,7 +23,7 @@ Download APK [from HERE](https://github.com/fanren1985/CWP/releases)
 
 </div>
 <br><br>
-### Important Tips (Key information first)
+Important Tips (Key information first)
 <br><br>
 1. **Tested Device**: Xiaomi 14&17 (Android)
 Sorry, this is the only device I own. Feel free to download and test it on other models at your own discretion; I will not run extra tests for other devices.
